@@ -114,9 +114,8 @@ const functionName = (parameters) => {
 }
 */
 
-const multiply = (a,b)=>{
-    return a*b;
-}
+const multiply = (a,b)=> a*b;
+
 console.log(multiply(5,4));
 
 /*

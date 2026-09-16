@@ -18,7 +18,7 @@ The 'typeof' operator is used to check the data type of a variable.
 */
 
 // String
-let name = "Ananta";
+let name = 5+"A";
 // Number
 let age = 24;
 // Boolean

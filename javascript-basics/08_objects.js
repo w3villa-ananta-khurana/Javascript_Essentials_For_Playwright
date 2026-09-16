@@ -1,6 +1,8 @@
 /*
-An Object is used to store related information
-as key-value pairs.
+An object in JavaScript is a standalone containers/data structure
+that stores data as a collection of key-value pairs. 
+Unlike primitive data types (like numbers or strings) 
+which hold a single value, an object groups related data and behavior together.
 
 Think of an object as a person's profile.
 

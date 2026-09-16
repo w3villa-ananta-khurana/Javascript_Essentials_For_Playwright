@@ -17,4 +17,4 @@ name = "Rahul";
 console.log(name);
 
 // 2. const : Value cannot be changed after assignment. Used for fixed values.
-// country = "USA"; // Error
+// country = "USA";

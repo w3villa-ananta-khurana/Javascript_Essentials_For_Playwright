@@ -169,6 +169,7 @@ Creates a NEW array by transforming
 every element.
 
 Example:
+*/
 
 let numbers = [1,2,3];
 
@@ -177,8 +178,8 @@ let doubled = numbers.map(num => num * 2);
 Output:
 [2,4,6]
 
-Original array remains unchanged.
-*/
+// Original array remains unchanged.
+
 
 
 // ==================================================
@@ -190,6 +191,7 @@ Creates a NEW array containing only
 the elements that match a condition.
 
 Example:
+*/
 
 let numbers = [10,15,20,25];
 
@@ -198,5 +200,4 @@ let even = numbers.filter(num => num % 2 == 0);
 Output:
 [10,20]
 
-Original array remains unchanged.
-*/
+// Original array remains unchanged.
